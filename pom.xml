@@ -3,7 +3,7 @@
 
   <groupId>com.col.test</groupId>
   <artifactId>go</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <scm>
     <connection>scm:git://git@github.com:yatesco/go-test.git</connection>
