@@ -6,9 +6,9 @@
   <version>1.0</version>
 
   <scm>
-    <connection>scm:git:git://git@github.com:yatesco/go-test.git</connection>
-    <url>scm:git:git://git@github.com:yatesco/go-test.git</url>
-    <developerConnection>scm:git:git://git@github.com:yatesco/go-test.git</developerConnection>
+    <connection>scm:git://git@github.com:yatesco/go-test.git</connection>
+    <url>scm:git://git@github.com:yatesco/go-test.git</url>
+    <developerConnection>scm:git://git@github.com:yatesco/go-test.git</developerConnection>
   </scm>
 
   <dependencies>
